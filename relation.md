@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2025-10-14 16:53:48 CST)
+(The last generation time: 2025-10-28 22:12:53 CST)
 
 ### Packages
 
@@ -15,12 +15,12 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  acct-user/sing-box                                    | 0-r1               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-admin/1password                                   | 8.11.12            |            | https://1password.com                                                                   | Password manager and secure wallet
+ app-admin/1password                                   | 8.11.14            |            | https://1password.com                                                                   | Password manager and secure wallet
    acct-group/onepassword                              | 0                  |  D, RD     |                                                                                         | Password manager and secure wallet
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-admin/chezmoi                                     | 2.65.1             |            | https://www.chezmoi.io                                                                  | Manage your dotfiles across multiple diverse machines, securely.
+ app-admin/chezmoi                                     | 2.66.2             |            | https://www.chezmoi.io                                                                  | Manage your dotfiles across multiple diverse machines, securely.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-admin/chezmoi-bin                                 | 2.65.1             |            | https://www.chezmoi.io                                                                  | Manage your dotfiles across multiple diverse machines, securely.
+ app-admin/chezmoi-bin                                 | 2.66.1             |            | https://www.chezmoi.io                                                                  | Manage your dotfiles across multiple diverse machines, securely.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-admin/enpass                                      | 6.10.1.1661        |            | https://www.enpass.io                                                                   | A cross-platform, complete password management solution.
                                                        | 6.11.12.1953       |            |                                                                                         |
@@ -50,16 +50,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/appflowy-bin                              | 0.10.0             |            | https://www.appflowy.io/                                                                | AppFlowy is an open-source alternative to Notion
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-editors/cursor                                    | 0.49.6             |            | https://www.cursor.com/                                                                 | Cursor App - AI-first coding environment
-                                                       | 0.50.7             |            |                                                                                         |
-                                                       | 0.51.2             |            |                                                                                         |
-                                                       | 1.3.2              |            |                                                                                         |
-                                                       | 1.3.8              |            |                                                                                         |
-                                                       | 1.3.9              |            |                                                                                         |
-                                                       | 1.4.6              |            |                                                                                         |
-                                                       | 1.5.11             |            |                                                                                         |
-                                                       | 1.5.4              |            |                                                                                         |
-                                                       | 1.5.5              |            |                                                                                         |
+ app-editors/cursor                                    | 1.7.54             |            | https://www.cursor.com/                                                                 | Cursor App - AI-first coding environment
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/edit                                      | 1.1.0              |            | https://github.com/microsoft/edit                                                       | Microsoft edit
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -120,7 +111,7 @@
    app-i18n/fcitx-rime                                 | 9999               | RD         | https://github.com/fcitx/fcitx5-rime                                                    | Rime Support for Fcitx5
      app-i18n/fcitx                                    | 9999               |  D, RD     | https://fcitx-im.org/                                                                   | Fcitx5 Next generation of fcitx
    app-i18n/fcitx-skk                                  | 5.1.6              | RD         | https://fcitx-im.org/                                                                   | Japanese SKK input engine for Fcitx5
-                                                       | 5.1.7-r1           |            |                                                                                         |
+                                                       | 5.1.7-r2           |            |                                                                                         |
                                                        | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-i18n/fcitx-skin-material                          | 0.5                |            | https://github.com/hrko99/fcitx-skin-material                                           | A Material Design-like skin for Fcitx
@@ -141,7 +132,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-misc/copilot                                      | 0.0.327            |            | https://github.com/github/copilot-cli                                                   | The power of GitHub Copilot, now in your terminal
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-misc/crush                                        | 0.10.4             |            | https://github.com/charmbracelet/crush                                                  | The glamourous AI coding agent for your favourite terminal 💘
+ app-misc/crush                                        | 0.13.0             |            | https://github.com/charmbracelet/crush                                                  | The glamourous AI coding agent for your favourite terminal 💘
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-misc/cursor-agent                                 | 2025.10.02         |            | https://docs.cursor.com/en/cli                                                          | Cursor CLI - interact with AI agents directly from your terminal
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -172,7 +163,7 @@
                                                        | 0.50.5             |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-office/bytedance-feishu                           | 7.22.9             |            | https://www.feishu.cn/download                                                          | 飞书（Feishu） 飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。
-                                                       | 7.50.13            |            |                                                                                         |
+                                                       | 7.50.14            |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-office/freeoffice                                 | 1062               |            | https://www.freeoffice.com                                                              | A complete, free Microsoft Office-compatible alternative office suite.
                                                        | 1064               |            |                                                                                         |
@@ -203,7 +194,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-text/lemminx-bin                                  | 0.31.0             |            | https://github.com/eclipse-lemminx/lemminx                                              | A XML Language Server
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-text/readest-bin                                  | 0.9.82             |            | https://readest.com/                                                                    | A modern, feature-rich ebook reader
+ app-text/readest-bin                                  | 0.9.88             |            | https://readest.com/                                                                    | A modern, feature-rich ebook reader
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-vim/easymotion                                    | 1.3                |            | http://www.vim.org/scripts/script.php?script_id=3526                                    | vim plugin: Vim motions on speed!
                                                        | 3.0.1              |            |                                                                                         |
@@ -216,18 +207,18 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-cpp/nameof                                        | 0.10.4             |            | https://github.com/Neargye/nameof                                                       | Nameof operator for modern C++
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-cpp/tgbot-cpp                                     | 1.9                |            | https://github.com/reo7sp/tgbot-cpp                                                     | C++ library for Telegram bot API
+ dev-cpp/tgbot-cpp                                     | 1.9.1              |            | https://github.com/reo7sp/tgbot-cpp                                                     | C++ library for Telegram bot API
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-db/dbeaver-bin                                    | 25.2.2             |            | https://dbeaver.io/                                                                     | Free universal database tool (community edition).
+ dev-db/dbeaver-bin                                    | 25.2.3             |            | https://dbeaver.io/                                                                     | Free universal database tool (community edition).
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-debug/lldb-mi                                     | 0.0.1              |            | https://github.com/lldb-tools/lldb-mi                                                   | LLDB Machine Interface Driver
                                                        | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-go/gotests                                        | 1.6.0              |            | https://github.com/cweill/gotests                                                       | Automatically generate Go test boilerplate from your source code
+ dev-go/gotests                                        | 1.8.0              |            | https://github.com/cweill/gotests                                                       | Automatically generate Go test boilerplate from your source code
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-go/staticcheck                                    | 2025.1.1           |            | https://staticcheck.dev                                                                 | Go static analysis, detecting bugs, performance issues, and much more
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-java/google-java-format                           | 1.29.0             |            | https://github.com/google/google-java-format                                            | Reformats Java source code to comply with Google Java Style.
+ dev-java/google-java-format                           | 1.30.0             |            | https://github.com/google/google-java-format                                            | Reformats Java source code to comply with Google Java Style.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-java/oraclejdk-bin                                | 8.391              |            | https://www.oracle.com/java                                                             | Oracle's Java SE Development Kit
                                                        | 21.0.1             |            |                                                                                         |
@@ -249,13 +240,9 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-python/conda                                      | 25.5.1             |            | https://conda.io/                                                                       | OS-agnostic, system-level binary package manager and ecosystem
    dev-python/conda-libmamba-solver                    | 25.4.0             |  D, RD     | https://github.com/conda/conda-libmamba-solver                                          | The libmamba based solver for conda
-     dev-util/mamba                                    | 2.3.0              | RD         | https://github.com/mamba-org/mamba                                                      | The Fast Cross-Platform Package Manager
+     dev-util/mamba                                    | 2.3.3              | RD         | https://github.com/mamba-org/mamba                                                      | The Fast Cross-Platform Package Manager
        dev-cpp/reproc                                  | 14.2.5             |  D, RD     | https://github.com/DaanDeMeyer/reproc                                                   | A cross-platform (C99/C++11) process library
-       dev-cpp/tl-expected                             | 1.1.0              |  D, RD     | https://github.com/TartanLlama/expected                                                 | Guideline Support Library implementation by Microsoft
        sys-libs/libsolv                                | 0.7.33             |  D, RD     | https://github.com/openSUSE/libsolv                                                     | Library for solving packages and reading repositories
-         app-arch/zchunk                               | 1.3.2              | RD         | https://github.com/zchunk/zchunk                                                        | A format designed for highly efficient deltas while maintaining good compression
-                                                       | 1.5.1              |            |                                                                                         |
-                                                       | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-python/conda-package-handling                     | 2.4.0              |            | https://github.com/conda/conda-package-handling                                         | Create and extract conda packages of various formats
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -291,7 +278,7 @@
  dev-python/pywikibot                                  | 10.3.0             |            | https://www.mediawiki.org/wiki/Manual:Pywikibot                                         | To interact with MediaWiki API (for example Wikipedia, Wikimedia Commons)
    dev-python/mwparserfromhell                         | 0.7.2              | RD         | https://github.com/earwig/mwparserfromhell                                              | A Python parser for MediaWiki wikicode
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-python/uv-bin                                     | 0.9.2              |            | https://github.com/astral-sh/uv                                                         | An extremely fast Python package and project manager, written in Rust.
+ dev-python/uv-bin                                     | 0.9.5              |            | https://github.com/astral-sh/uv                                                         | An extremely fast Python package and project manager, written in Rust.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-ruby/filelock                                     | 1.1.1              |            | https://github.com/sheerun/filelock                                                     | Heavily tested, but simple filelocking solution using flock command
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -307,7 +294,10 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/binsider                                     | 0.2.1              |            | https://binsider.dev                                                                    | Analyze ELF binaries like a boss
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/codex-bin                                    | 0.46.0             |            | https://github.com/openai/codex                                                         | Codex - OpenAI's code generation and completion tool
+ dev-util/codex-bin                                    | 0.48.0             |            | https://github.com/openai/codex                                                         | Codex - OpenAI's code generation and completion tool
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ dev-util/fvm                                          | 3.2.1              |            | https://github.com/leoafarias/fvm                                                       | Flutter Version Management
+   dev-lang/dart                                       | 3.9.4              | BD         | https://dart.dev                                                                        | The Dart SDK
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/gemini-cli                                   | 0.7.0              |            | https://github.com/google-gemini/gemini-cli                                             | Gemini CLI - a command-line AI workflow tool by Google
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -324,15 +314,15 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/tailspin                                     | 5.5.0              |            | https://github.com/bensadeh/tailspin                                                    | A log file highlighter
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/vfox                                         | 0.6.10             |            | https://vfox.lhan.me                                                                    | A cross-platform version manager, extendable via plugins
+ dev-util/vfox                                         | 0.9.1              |            | https://vfox.dev                                                                        | A cross-platform version manager, extendable via plugins
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/vfox-bin                                     | 0.6.10             |            | https://vfox.lhan.me/                                                                   | A cross-platform version manager, extendable via plugins
+ dev-util/vfox-bin                                     | 0.9.1              |            | https://vfox.lhan.me/                                                                   | A cross-platform version manager, extendable via plugins
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/zprint-bin                                   | 1.3.0              |            | https://github.com/kkinnear/zprint                                                      | Clojure and Clojurescript source code formatter
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-vcs/gitoxide                                      | 0.45.0             |            | https://github.com/GitoxideLabs/gitoxide                                                | A command-line application for interacting with git repositories
+ dev-vcs/gitoxide                                      | 0.46.0             |            | https://github.com/GitoxideLabs/gitoxide                                                | A command-line application for interacting with git repositories
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-vcs/sourcegit-bin                                 | 2025.36            |            | https://github.com/sourcegit-scm/sourcegit                                              | Opensource Git GUI client.
+ dev-vcs/sourcegit-bin                                 | 2025.37            |            | https://github.com/sourcegit-scm/sourcegit                                              | Opensource Git GUI client.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-action/vintagestory                             | 1.19.8             |            | https://www.vintagestory.at/                                                            | Uncompromising wilderness survival sandbox game (requires paid account)
                                                        | 1.20.12            |            |                                                                                         |
@@ -341,14 +331,14 @@
  games-arcade/osu-lazer-bin                            | 2025.816.0         |            | https://osu.ppy.sh/                                                                     | A free-to-win rhythm game. Rhythm is just a click away!
                                                        | 2025.912.0         |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- games-arcade/osu-lazer-tachyon-bin                    | 2025.911.0         |            | https://osu.ppy.sh/                                                                     | A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
+ games-arcade/osu-lazer-tachyon-bin                    | 2025.1025.1        |            | https://osu.ppy.sh/                                                                     | A free-to-win rhythm game. Rhythm is just a click away! (tachyon releases)
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-emulation/conty                                 | 1.27.1             |            | https://github.com/Kron4ek/Conty                                                        | SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
                                                        | 1.28               |            |                                                                                         |
                                                        | 1.28.1             |            |                                                                                         |
                                                        | 1.28.2             |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- games-emulation/onscripter-yuri                       | 0.7.6_beta1-r1     |            | https://github.com/YuriSizuku/OnscripterYuri                                            | An enhancement ONScripter project porting to many platforms, especially web
+ games-emulation/onscripter-yuri                       | 0.7.6_beta2        |            | https://github.com/YuriSizuku/OnscripterYuri                                            | An enhancement ONScripter project porting to many platforms, especially web
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-fps/openarena                                   | 0.8.8              |            | http://openarena.ws                                                                     | A violent, sexy, multiplayer first person shooter based on the ioquake3 engine
                                                        | 9999               |            |                                                                                         |
@@ -389,9 +379,11 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/jf-openhuninn                             | 2.1                |            | https://justfont.com/huninn/                                                            | An opensource Chinese font by justfont, based on Kosugi Maru and Varela Round
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ media-fonts/kose-font                                 | 3.126              |            | https://github.com/lxgw/kose-font                                                       | Kose Font (小赖字体) - An open-source Chinese font
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/lxgw-neo-xihei                            | 1.224              |            | https://github.com/lxgw/LxgwNeoXiHei                                                    | A Simplified Chinese sans-serif font derived from IPAex Gothic
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-fonts/lxgw-neo-zhisong                          | 1.039              |            | https://github.com/lxgw/LxgwNeoZhiSong                                                  | A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
+ media-fonts/lxgw-neo-zhisong                          | 1.041              |            | https://github.com/lxgw/LxgwNeoZhiSong                                                  | A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/misans                                    | 4.003-r1           |            | https://hyperos.mi.com/font                                                             | MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -412,6 +404,8 @@
  media-fonts/ttf-wps-fonts                             | 9999               |            | https://github.com/iamdh4/ttf-wps-fonts                                                 | Symbol fonts required by wps-office
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/wangfonts                                 | 1.3.0              |            | https://code.google.com/p/wangfonts/                                                    | Free Chinese TrueType fonts donated by Prof. Hann-Tzong Wang
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ media-fonts/yozai-font                                | 0.868              |            | https://github.com/lxgw/yozai-font                                                      | Yozai Font (悠哉字体) - A Chinese font derived from Y.OzFont
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/zhudou                                    | 2.000              |            | https://github.com/Buernia/Zhudou-Sans                                                  | A font family for CJK symbols and punctuation, derived from Noto Sans.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -479,11 +473,11 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/iptvnator-bin                             | 0.16.0             |            | https://iptvnator.vercel.app/                                                           | Cross-platform IPTV player application with multiple features
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-video/mpv-handler                               | 0.3.16             |            | https://github.com/akiirui/mpv-handler                                                  | Play website videos and songs with mpv & yt-dlp
-                                                       | 0.4.1              |            |                                                                                         |
+ media-video/mpv-handler                               | 0.4.2              |            | https://github.com/akiirui/mpv-handler                                                  | Play website videos and songs with mpv & yt-dlp
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-video/piliplus-bin                              | 1.1.4.6            |            | https://github.com/bggRGjQaUbCoE/PiliPlus                                               | BiliBili third-party client developed using Flutter
-                                                       | 1.1.4.8            |            |                                                                                         |
+ media-video/piliplus-bin                              | 1.1.4.13           |            | https://github.com/bggRGjQaUbCoE/PiliPlus                                               | BiliBili third-party client developed using Flutter
+                                                       | 1.1.4.14           |            |                                                                                         |
+                                                       | 1.1.4.16           |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/tenvideo                                  | 1.0.10             |            | https://v.qq.com/download.html#linux                                                    | Tencent videos
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -498,7 +492,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-analyzer/realitlscanner                           | 0.2.1              |            | https://github.com/XTLS/RealiTLScanner                                                  | A TLS server scanner for Reality
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-dns/ddns-go                                       | 6.12.5             |            | https://github.com/jeessy2/ddns-go                                                      | Automatically obtain your public IP address and set to your domain name service.
+ net-dns/ddns-go                                       | 6.13.0             |            | https://github.com/jeessy2/ddns-go                                                      | Automatically obtain your public IP address and set to your domain name service.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-dns/dnslookup                                     | 1.11.1             |            | https://github.com/ameshkov/dnslookup                                                   | Simple command line utility to make DNS lookups to the specified server
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -513,7 +507,7 @@
                                                        | 5.1.45             |            |                                                                                         |
      app-emulation/deepin-wine-plugin                  | 5.1.13-r1          |  D, RD     | https://www.deepin.org                                                                  | Deepin Wine plugin
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-im/dingtalk                                       | 7.6.45.5062501     |            | https://gov.dingtalk.com                                                                | Communication platform that supports video and audio conferencing
+ net-im/dingtalk                                       | 7.8.15.5101401     |            | https://gov.dingtalk.com                                                                | Communication platform that supports video and audio conferencing
    dev-libs/libthai                                    | 0.1.28             |  D, RD     | https://github.com/tlwg/libthai                                                         | A a set of Thai language support routines
                                                        | 0.1.29             |            |                                                                                         |
      dev-libs/libdatrie                                | 0.2.13             |  D, RD     | https://github.com/tlwg/libdatrie                                                       | Double-Array Trie Library
@@ -521,9 +515,9 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-im/kotatogram-bin                                 | 1.4.9              |            | https://thatcat.space/kotatogram                                                        | Telegram Desktop fork with wide messages, local folders, square avatars
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-im/tencent-qq                                     | 3.2.19_p250820     |            | https://im.qq.com/linuxqq/index.shtml                                                   | The new version of the official linux-qq
-                                                       | 3.2.19_p250904     |            |                                                                                         |
-   media-libs/openslide                                | 20230904           | RD         | http://openslide.org/                                                                   | C library with simple interface to read virtual slides
+ net-im/tencent-qq                                     | 3.2.20_p251023     |            | https://im.qq.com/linuxqq/index.shtml                                                   | The new version of the official linux-qq
+   media-libs/openslide                                | 4.0.0              | RD         | https://openslide.org/                                                                  | A C library that provides a simple interface to read whole-slide images
+     media-libs/libdicom                               | 1.2.0              |  D, RD     | https://libdicom.readthedocs.io/                                                        | A C library and a set of command-line tools for reading DICOM WSI files
    virtual/loong-ow-compat                             | 0                  | RD         |                                                                                         | Virtual for LoongArch old-world compatibility
      app-emulation/liblol                              | 0.1.5              | RD         | https://liblol.aosc.io                                                                  | LoongArch old-world ABI compatibility layer from AOSC OS
                                                        | 0.1.9              |            |                                                                                         |
@@ -559,7 +553,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/another-redis-desktop-manager-bin            | 1.7.1              |            | https://github.com/qishibo/AnotherRedisDesktopManager                                   | A faster, better and more stable Redis desktop manager [GUI client]
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-misc/apifox                                       | 2.7.42             |            | https://www.apifox.cn/                                                                  | API 文档、API 调试、API Mock、API 自动化测试
+ net-misc/apifox                                       | 2.7.45             |            | https://www.apifox.cn/                                                                  | API 文档、API 调试、API Mock、API 自动化测试
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/baidunetdisk                                 | 4.17.7             |            | https://pan.baidu.com/                                                                  | Baidu Net Disk is a cloud storage client (Linux Version)
                                                        | 4.3.0              |            |                                                                                         |
@@ -594,8 +588,7 @@
                                                        | 1.2.2              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/remmina-plugin-rustdesk                      | 1.0.0.0-r1         |            | http://www.muflone.com/remmina-plugin-rustdesk/                                         | A protocol plugin for Remmina to launch a Rustdesk connection.
-   net-misc/rustdesk                                   | 1.4.1              |  D, RD     | https://rustdesk.com/                                                                   | An open-source remote desktop, and alternative to TeamViewer
-                                                       | 1.4.2              |            |                                                                                         |
+   net-misc/rustdesk                                   | 1.4.3              |  D, RD     | https://rustdesk.com/                                                                   | An open-source remote desktop, and alternative to TeamViewer
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/reqable                                      | 2.33.12            |            | https://reqable.com/                                                                    | Reqable = Fiddler + Charles + Postman, 让API调试更快 🚀 更简单 👌
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -629,6 +622,7 @@
  net-proxy/clash-rs                                    | 0.9.1              |            | https://watfaq.gitbook.io/clashrs-user-manual/                                          | Custom protocol, rule based network proxy
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/clash-verge-bin                             | 2.4.2              |            | https://github.com/clash-verge-rev/clash-verge-rev                                      | (Continuation) of Clash Meta GUI based on Tauri.
+                                                       | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/dae                                         | 1.0.0              |            | https://github.com/daeuniverse/dae                                                      | A lightweight and high-performance transparent proxy solution based on eBPF
                                                        | 9999               |            |                                                                                         |
@@ -636,17 +630,17 @@
  net-proxy/daed                                        | 1.0.0              |            | https://github.com/daeuniverse/daed                                                     | A Modern Dashboard For dae
                                                        | 9999               |            |                                                                                         |
    sys-apps/pnpm                                       | 9.15.5             | BD         | https://pnpm.io                                                                         | Fast, disk space efficient package manager
-                                                       | 10.18.2            |            |                                                                                         |
+                                                       | 10.19.0            |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/flclash-bin                                 | 0.8.90             |            | https://github.com/chen08209/FlClash                                                    | A multi-platform proxy client based on ClashMeta
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/hysteria                                    | 2.6.4              |            | https://github.com/apernet/hysteria                                                     | A powerful, lightning fast and censorship resistant proxy.
+ net-proxy/hysteria                                    | 2.6.5              |            | https://github.com/apernet/hysteria                                                     | A powerful, lightning fast and censorship resistant proxy.
    acct-group/hysteria                                 | 0                  |  D, RD     |                                                                                         | A powerful, lightning fast and censorship resistant proxy.
    acct-user/hysteria                                  | 0                  |  D, RD     |                                                                                         | A powerful, lightning fast and censorship resistant proxy.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/juicity                                     | 0.5.0              |            | https://github.com/juicity/juicity                                                      | juicity is a quic-based proxy protocol.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/mihomo                                      | 1.19.14            |            | https://wiki.metacubex.one/                                                             | Another Clash Kernel, formerly Clash.Meta
+ net-proxy/mihomo                                      | 1.19.15            |            | https://wiki.metacubex.one/                                                             | Another Clash Kernel, formerly Clash.Meta
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/mihomo-party-bin                            | 1.8.2              |            | https://mihomo.party                                                                    | Mihomo Party
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -665,25 +659,25 @@
    net-proxy/qv2ray                                    | 2.7.0_p20240625-r1 | RD         | https://github.com/Qv2ray/Qv2ray                                                        | Qt GUI fontend of v2ray
      dev-libs/qnodeeditor                              | 2.1.7_p20210113    |  D, RD     | https://github.com/Qv2ray/QNodeEditor                                                   | A general-purpose Qt-based library aimed at graph-controlled data processing.
      dev-libs/singleapplication                        | 3.5.3              |  D         | https://itay-grudev.github.io/SingleApplication/                                        | Replacement of QtSingleApplication support for inter-instance communication
-     net-proxy/Xray                                    | 25.9.11            | RD         | https://xtls.github.io/                                                                 | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+     net-proxy/Xray                                    | 25.10.15           | RD         | https://xtls.github.io/                                                                 | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
        app-alternatives/v2ray-geoip                    | 0-r2               |  D, RD     |                                                                                         | symlink for v2ray-geoip
        app-alternatives/v2ray-geosite                  | 0-r2               |  D, RD     |                                                                                         | symlink for v2ray-geosite
-     net-proxy/v2ray                                   | 5.40.0             | RD         | https://www.v2fly.org/                                                                  | A platform for building proxies to bypass network restrictions.
+     net-proxy/v2ray                                   | 5.41.0             | RD         | https://www.v2fly.org/                                                                  | A platform for building proxies to bypass network restrictions.
      net-proxy/v2ray-bin                               | 4.45.0-r2          | RD         | https://www.v2fly.org                                                                   | A platform for building proxies to bypass network restrictions.
-                                                       | 5.40.0             |            |                                                                                         |
+                                                       | 5.41.0             |            |                                                                                         |
    net-proxy/trojan-go-fork                            | 2025.07.27         | RD         | https://github.com/Potterli20/trojan-go-fork                                            | A fork of trojan-go
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/serenity                                    | 1.1.0_beta3        |            | https://serenity.sagernet.org/                                                          | The configuration generator for sing-box
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/shadowsocks-rust                            | 1.23.5             |            | https://github.com/shadowsocks/shadowsocks-rust                                         | shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/sing-box                                    | 1.10.7             |            | https://sing-box.sagernet.org/                                                          | The universal proxy platform.
-                                                       | 1.11.15-r1         |            |                                                                                         |
-                                                       | 1.12.9             |            |                                                                                         |
-                                                       | 1.13.0_alpha19     |            |                                                                                         |
-                                                       | 1.9.7              |            |                                                                                         |
+ net-proxy/sing-box                                    | 1.11.15-r1         |            | https://sing-box.sagernet.org/                                                          | The universal proxy platform.
+                                                       | 1.12.12            |            |                                                                                         |
+                                                       | 1.13.0_alpha25     |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/smartproxy                                  | 0.9.5              |            | https://github.com/microcai/smartproxy                                                  | A fast, proxy smart selector
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ net-proxy/tun2socks                                   | 2.6.0              |            | https://github.com/xjasonlyu/tun2socks                                                  | tun2socks - powered by gVisor TCP/IP stack
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/v2rayA                                      | 2.2.7              |            | https://v2raya.org/                                                                     | web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
                                                        | 9999               |            |                                                                                         |
@@ -692,7 +686,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/yass                                        | 1.16.2             |            | https://github.com/Chilledheart/yass                                                    | lightweight and efficient, socks5/http forward proxy
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/zashboard                                   | 1.107.0            |            | https://github.com/Zephyruso/zashboard                                                  | The Official Mihomo Dashboard
+ net-proxy/zashboard                                   | 1.108.0            |            | https://github.com/Zephyruso/zashboard                                                  | The Official Mihomo Dashboard
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-vpn/sstp-server                                   | 0.6.0              |            | https://github.com/sorz/sstp-server/                                                    | A Secure Socket Tunneling Protocol (SSTP) server implemented in Python.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -706,7 +700,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  sci-electronics/lceda                                 | 6.5.51             |            | https://lceda.cn/                                                                       | LCEDA (binary package)
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- sci-electronics/lceda-pro                             | 2.2.43.1           |            | https://lceda.cn/                                                                       | LCEDA Pro (binary package)
+ sci-electronics/lceda-pro                             | 2.2.43.4           |            | https://lceda.cn/                                                                       | LCEDA Pro (binary package)
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  sci-electronics/openfpgaloader                        | 0.13.1             |            | https://trabucayre.github.io/openFPGALoader                                             | Universal utility for programming FPGAs
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -757,20 +751,20 @@
    sys-kernel/xanmod-sources                           | 6.15.8             | RD         | https://xanmod.org                                                                      | Full XanMod source, including the Gentoo patchset and other patch options.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  virtual/v2ray-domain-list-community                   | 0                  |            |                                                                                         | Virtual for v2ray-domain-list-community
-   dev-libs/v2ray-domain-list-community                | 20250906011216     | RD         | https://github.com/v2fly/domain-list-community                                          | Community managed domain list for V2Ray.
+   dev-libs/v2ray-domain-list-community                | 20251027071824     | RD         | https://github.com/v2fly/domain-list-community                                          | Community managed domain list for V2Ray.
    dev-libs/v2ray-domain-list-community-bin            | 20250906011216     | RD         | https://github.com/v2fly/domain-list-community                                          | Community managed domain list for V2Ray.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  virtual/v2ray-geoip                                   | 0                  |            |                                                                                         | Virtual for v2ray-geoip
    dev-libs/v2ray-geoip                                | 202507050144       | RD         | https://github.com/v2fly/geoip                                                          | GeoIP for V2Ray.
    dev-libs/v2ray-geoip-bin                            | 202506050146       | RD         | https://github.com/v2fly/geoip                                                          | GeoIP for V2Ray.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- www-apps/cherry-studio-bin                            | 1.6.4              |            | https://github.com/CherryHQ/cherry-studio                                               | Cherry Studio is a desktop client that supports for multiple LLM providers.
+ www-apps/cherry-studio-bin                            | 1.6.5              |            | https://github.com/CherryHQ/cherry-studio                                               | Cherry Studio is a desktop client that supports for multiple LLM providers.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-apps/dufs                                         | 0.45.0             |            | https://github.com/sigoden/dufs                                                         | A distinctive utility file server
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- www-apps/follow-bin                                   | 0.7.0              |            | https://follow.is/                                                                      | Next generation information browser
+ www-apps/follow-bin                                   | 0.9.0              |            | https://follow.is/                                                                      | Next generation information browser
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- www-client/brave-bin                                  | 1.83.112           |            | https://brave.com/                                                                      | Web browser that blocks ads and trackers by default
+ www-client/brave-bin                                  | 1.83.120           |            | https://brave.com/                                                                      | Web browser that blocks ads and trackers by default
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-servers/darkhttpd                                 | 1.17               |            | http://unix4lyfe.org/darkhttpd/                                                         | A small, static webserver
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
