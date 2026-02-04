@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2026-02-01 01:17:55 CST)
+(The last generation time: 2026-02-04 08:33:50 CST)
 
 ### Packages
 
@@ -49,7 +49,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/antigravity                               | 1.15.8             |            | https://antigravity.google/                                                             | Google Antigravity - AI-powered code editor
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-editors/appflowy-bin                              | 0.11.0             |            | https://www.appflowy.io/                                                                | AppFlowy is an open-source alternative to Notion
+ app-editors/appflowy-bin                              | 0.11.1             |            | https://www.appflowy.io/                                                                | AppFlowy is an open-source alternative to Notion
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/edit                                      | 1.1.0              |            | https://github.com/microsoft/edit                                                       | Microsoft edit
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -78,7 +78,7 @@
  app-emulation/liblol-libxcrypt                        | 0.1.5              |            | https://github.com/besser82/libxcrypt                                                   | libxcrypt for liblol
                                                        | 0.1.9              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-emulation/looking-glass                           | 0_beta7_rc1-r1     |            | https://looking-glass.io                                                                | A low latency KVMFR application for guests with VGA PCI Passthrough
+ app-emulation/looking-glass                           | 0_beta7_rc1-r2     |            | https://looking-glass.io                                                                | A low latency KVMFR application for guests with VGA PCI Passthrough
    gui-libs/libdecor                                   | 0.1.1              |  D, RD     | https://gitlab.freedesktop.org/libdecor/libdecor                                        | A client-side decorations library for Wayland clients
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-emulation/winboat-bin                             | 0.9.0              |            | https://www.winboat.app/                                                                | Run Windows apps on Linux with seamless integration
@@ -245,7 +245,7 @@
  dev-libs/lunar-calendar                               | 3.0.1              |            | https://github.com/yetist/lunar-calendar                                                | a gtk+ calendar widget for chinese lunar library
    dev-libs/lunar-date                                 | 3.0.1              |  D         | https://github.com/yetist/lunar-date                                                    | Chinese Lunar Library
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-libs/v2ray-rules-dat-bin                          | 202505102212       |            | https://github.com/Loyalsoldier/v2ray-rules-dat                                         | Enhanced edition of V2Ray rules dat files.
+ dev-libs/v2ray-rules-dat-bin                          | 202601312217       |            | https://github.com/Loyalsoldier/v2ray-rules-dat                                         | Enhanced edition of V2Ray rules dat files.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-python/adafruit-board-toolkit                     | 1.1.2              |            | https://github.com/adafruit/Adafruit_Board_Toolkit/                                     | CircuitPython board identification and information
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -323,16 +323,19 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/binsider                                     | 0.3.0              |            | https://binsider.dev                                                                    | Analyze ELF binaries like a boss
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/codex                                        | 0.88.0             |            | https://github.com/openai/codex                                                         | Codex CLI - OpenAI's AI-powered coding agent
+ dev-util/codex                                        | 0.94.0             |            | https://github.com/openai/codex                                                         | Codex CLI - OpenAI's AI-powered coding agent
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/fvm                                          | 4.0.5              |            | https://github.com/leoafarias/fvm                                                       | Flutter Version Management
    dev-lang/dart                                       | 3.10.8             |  D, RD     | https://dart.dev                                                                        | The Dart SDK
+                                                       | 3.10.9             |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/gemini-cli                                   | 0.25.0             |            | https://github.com/google-gemini/gemini-cli                                             | Gemini CLI - a command-line AI workflow tool by Google
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/jetbrains-toolbox                            | 3.2.0.65851        |            | https://www.jetbrains.com/toolbox-app/                                                  | Manage all your JetBrains Projects and Tools
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/maixvision                                   | 1.2.2              |            | https://www.sipeed.com/maixvision                                                       | MaixVision - AIoT development platform
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ dev-util/opencode-bin                                 | 1.1.48             |            | https://opencode.ai                                                                     | The open source AI coding agent
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/osc                                          | 1.23.0             |            | https://github.com/openSUSE/osc                                                         | The Command Line Interface to work with an Open Build Service
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -361,7 +364,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-action/vintagestory                             | 1.19.8             |            | https://www.vintagestory.at/                                                            | Uncompromising wilderness survival sandbox game (requires paid account)
                                                        | 1.20.12            |            |                                                                                         |
-                                                       | 1.21.0             |            |                                                                                         |
+                                                       | 1.21.6             |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-arcade/osu-lazer-bin                            | 2026.102.1         |            | https://osu.ppy.sh/                                                                     | A free-to-win rhythm game. Rhythm is just a click away!
                                                        | 2026.119.0         |            |                                                                                         |
@@ -396,9 +399,9 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  gnome-extra/nautilus-open-any-terminal                | 0.8.1              |            | https://github.com/Stunkymonkey/nautilus-open-any-terminal                              | context-menu entry for opening other terminal in nautilus
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- gnome-extra/resources                                 | 1.9.1              |            | https://github.com/nokyan/resources                                                     | Keep an eye on system resources
+ gnome-extra/resources                                 | 1.10.0             |            | https://github.com/nokyan/resources                                                     | Keep an eye on system resources
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- gui-apps/crystal-dock                                 | 2.11               |            | https://github.com/dangvd/crystal-dock                                                  | Cool dock (desktop panel) for Linux desktop
+ gui-apps/crystal-dock                                 | 2.16               |            | https://github.com/dangvd/crystal-dock                                                  | Cool dock (desktop panel) for Linux desktop
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  kde-misc/plasma-applet-netspeed-widget                | 2.0                |            | https://www.kde-look.org/p/998895/                                                      | Plasma 5 widget that displays the currently used network bandwidth.
                                                        | 3.1                |            |                                                                                         |
@@ -418,9 +421,9 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/kose-font                                 | 3.126              |            | https://github.com/lxgw/kose-font                                                       | Kose Font (小赖字体) - An open-source Chinese font
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-fonts/lxgw-neo-xihei                            | 1.239              |            | https://github.com/lxgw/LxgwNeoXiHei                                                    | A Simplified Chinese sans-serif font derived from IPAex Gothic
+ media-fonts/lxgw-neo-xihei                            | 1.240              |            | https://github.com/lxgw/LxgwNeoXiHei                                                    | A Simplified Chinese sans-serif font derived from IPAex Gothic
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-fonts/lxgw-neo-zhisong                          | 1.058              |            | https://github.com/lxgw/LxgwNeoZhiSong                                                  | A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
+ media-fonts/lxgw-neo-zhisong                          | 1.060              |            | https://github.com/lxgw/LxgwNeoZhiSong                                                  | A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/misans                                    | 4.003-r1           |            | https://hyperos.mi.com/font                                                             | MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -444,7 +447,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/zhudou                                    | 2.000              |            | https://github.com/Buernia/Zhudou-Sans                                                  | A font family for CJK symbols and punctuation, derived from Noto Sans.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-gfx/bambustudio-bin                             | 02.04.00.70        |            | https://bambulab.com                                                                    | Bambu Studio is a cutting-edge, feature-rich slicing software
+ media-gfx/bambustudio-bin                             | 02.05.00.67        |            | https://bambulab.com                                                                    | Bambu Studio is a cutting-edge, feature-rich slicing software
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-gfx/scangearmp                                  | 2.4.10             |            | https://www.canon.com                                                                   | Driver and utility package for Canon scanners
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -468,6 +471,8 @@
  media-plugins/waylyrics                               | 0.3.21             |            | https://waylyrics.github.io/waylyrics/waylyrics                                         | Simple On Screen lyrics Display for linux/unix
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/barva                                     | 9999               |            | https://github.com/Kharacternyk/barva                                                   | a modular audio visualizer
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ media-sound/euphonica                                 | 0.98.1             |            | https://github.com/htkhiem/euphonica                                                    | An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/feeluown                                  | 4.1.7              |            | https://github.com/feeluown/FeelUOwn                                                    | A user-friendly and hackable music player
    dev-python/feeluown-bilibili                        | 0.4.1              |  D         | https://github.com/feeluown/feeluown-bilibili                                           | bilibili support for feeluown
@@ -505,7 +510,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/avplayer                                  | 9999               |            | http://avplayer.avplayer.org                                                            | avplayer is a p2p video downloader and player
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-video/bilibili                                  | 1.17.4_p1          |            | https://github.com/msojocs/bilibili-linux                                               | Based on the Bilibli offcial client to linux version, support roaming
+ media-video/bilibili                                  | 1.17.5_p1          |            | https://github.com/msojocs/bilibili-linux                                               | Based on the Bilibli offcial client to linux version, support roaming
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/implay                                    | 1.5.1              |            | https://tsl0922.github.io/ImPlay                                                        | A Cross-Platform Desktop Media Player
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -673,7 +678,7 @@
    sys-apps/pnpm                                       | 10.26.0            | BD         | https://pnpm.io                                                                         | Fast, disk space efficient package manager
                                                        | 10.27.0            |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/flclash-bin                                 | 0.8.91             |            | https://github.com/chen08209/FlClash                                                    | A multi-platform proxy client based on ClashMeta
+ net-proxy/flclash-bin                                 | 0.8.92             |            | https://github.com/chen08209/FlClash                                                    | A multi-platform proxy client based on ClashMeta
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/hysteria                                    | 2.6.5-r2           |            | https://github.com/apernet/hysteria                                                     | A powerful, lightning fast and censorship resistant proxy.
                                                        | 2.7.0              |            |                                                                                         |
@@ -702,7 +707,8 @@
    net-proxy/qv2ray                                    | 2.7.0_p20240625-r1 | RD         | https://github.com/Qv2ray/Qv2ray                                                        | Qt GUI fontend of v2ray
      dev-libs/qnodeeditor                              | 2.1.7_p20210113    |  D, RD     | https://github.com/Qv2ray/QNodeEditor                                                   | A general-purpose Qt-based library aimed at graph-controlled data processing.
      dev-libs/singleapplication                        | 3.5.4              |  D         | https://itay-grudev.github.io/SingleApplication/                                        | Replacement of QtSingleApplication support for inter-instance communication
-     net-proxy/Xray                                    | 26.1.13            | RD         | https://xtls.github.io/                                                                 | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+     net-proxy/Xray                                    | 26.1.31            | RD         | https://xtls.github.io/                                                                 | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
+                                                       | 26.2.2             |            |                                                                                         |
        app-alternatives/v2ray-geoip                    | 0-r2               |  D, RD     |                                                                                         | symlink for v2ray-geoip
        app-alternatives/v2ray-geosite                  | 0-r2               |  D, RD     |                                                                                         | symlink for v2ray-geosite
      net-proxy/v2ray                                   | 5.42.0             | RD         | https://www.v2fly.org/                                                                  | A platform for building proxies to bypass network restrictions.
@@ -715,14 +721,14 @@
  net-proxy/shadowsocks-rust                            | 1.24.0             |            | https://github.com/shadowsocks/shadowsocks-rust                                         | shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/sing-box                                    | 1.11.15-r1         |            | https://sing-box.sagernet.org/                                                          | The universal proxy platform.
-                                                       | 1.12.18            |            |                                                                                         |
-                                                       | 1.13.0_beta8       |            |                                                                                         |
+                                                       | 1.12.19            |            |                                                                                         |
+                                                       | 1.13.0_rc1         |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/smartproxy                                  | 0.9.5              |            | https://github.com/microcai/smartproxy                                                  | A fast, proxy smart selector
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/tun2socks                                   | 2.6.0              |            | https://github.com/xjasonlyu/tun2socks                                                  | tun2socks - powered by gVisor TCP/IP stack
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/v2rayA                                      | 2.2.7              |            | https://v2raya.org/                                                                     | web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
+ net-proxy/v2rayA                                      | 2.2.7.5            |            | https://v2raya.org/                                                                     | web GUI of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel
                                                        | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/yacd-meta                                   | 0.3.8              |            | https://github.com/MetaCubeX/Yacd-meta                                                  | Yet Another Clash Dashboard
@@ -783,16 +789,16 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  sys-power/tlpui                                       | 1.9.0              |            | https://github.com/d4nj1/TLPUI                                                          | A GTK user interface for TLP written in Python
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- virtual/dist-kernel                                   | 6.18.7             |            |                                                                                         | Virtual to depend on any Distribution Kernel
+ virtual/dist-kernel                                   | 6.18.8             |            |                                                                                         | Virtual to depend on any Distribution Kernel
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  virtual/linux-sources                                 | 3-r12              |            |                                                                                         | Virtual for Linux kernel sources
    sys-kernel/cachyos-sources                          | 6.18.6             | RD         | https://cachyos.org                                                                     | Full Cachyos sources including the Gentoo patchset for the . kernel tree
    sys-kernel/liquorix-sources                         | 6.4.12             | RD         | https://liquorix.net/                                                                   | Liquorix kernel is best one for desktop, multimedia and gaming workloads
                                                        | 6.6.8              |            |                                                                                         |
-   sys-kernel/xanmod-kernel                            | 6.18.7             | RD         | https://www.kernel.org/                                                                 | XanMod lts kernel built with Gentoo patches and cjktty
+   sys-kernel/xanmod-kernel                            | 6.18.8             | RD         | https://www.kernel.org/                                                                 | XanMod lts kernel built with Gentoo patches and cjktty
    sys-kernel/xanmod-rt                                | 6.0.11             | RD         | https://xanmod.org                                                                      | XanMod RT sources and CJKTTY options.
                                                        | 6.12.31            |            |                                                                                         |
-   sys-kernel/xanmod-sources                           | 6.18.7             | RD         | https://xanmod.org                                                                      | Full XanMod source, including the Gentoo patchset and other patch options.
+   sys-kernel/xanmod-sources                           | 6.18.8             | RD         | https://xanmod.org                                                                      | Full XanMod source, including the Gentoo patchset and other patch options.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  virtual/v2ray-domain-list-community                   | 0                  |            |                                                                                         | Virtual for v2ray-domain-list-community
    dev-libs/v2ray-domain-list-community                | 20260122141558     | RD         | https://github.com/v2fly/domain-list-community                                          | Community managed domain list for V2Ray.
