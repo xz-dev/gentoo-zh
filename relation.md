@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2026-02-14 09:57:26 CST)
+(The last generation time: 2026-02-14 22:35:13 CST)
 
 ### Packages
 
@@ -49,7 +49,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/antigravity                               | 1.16.5-r1          |            | https://antigravity.google/                                                             | Google Antigravity - AI-powered code editor
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-editors/appflowy-bin                              | 0.11.1             |            | https://www.appflowy.io/                                                                | AppFlowy is an open-source alternative to Notion
+ app-editors/appflowy-bin                              | 0.11.2             |            | https://www.appflowy.io/                                                                | AppFlowy is an open-source alternative to Notion
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/edit                                      | 1.1.0              |            | https://github.com/microsoft/edit                                                       | Microsoft edit
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -340,13 +340,13 @@
  dev-util/fvm                                          | 4.0.5              |            | https://github.com/leoafarias/fvm                                                       | Flutter Version Management
    dev-lang/dart                                       | 3.11.0             |  D, RD     | https://dart.dev                                                                        | The Dart SDK
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/gemini-cli                                   | 0.27.3             |            | https://github.com/google-gemini/gemini-cli                                             | Gemini CLI - a command-line AI workflow tool by Google
+ dev-util/gemini-cli                                   | 0.28.2             |            | https://github.com/google-gemini/gemini-cli                                             | Gemini CLI - a command-line AI workflow tool by Google
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/jetbrains-toolbox                            | 3.2.0.65851        |            | https://www.jetbrains.com/toolbox-app/                                                  | Manage all your JetBrains Projects and Tools
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/maixvision                                   | 1.2.2              |            | https://www.sipeed.com/maixvision                                                       | MaixVision - AIoT development platform
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/opencode-bin                                 | 1.1.49             |            | https://opencode.ai                                                                     | The open source AI coding agent
+ dev-util/opencode-bin                                 | 1.1.65             |            | https://opencode.ai                                                                     | The open source AI coding agent
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/osc                                          | 1.23.0             |            | https://github.com/openSUSE/osc                                                         | The Command Line Interface to work with an Open Build Service
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -826,7 +826,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-apps/follow-bin                                   | 1.2.6              |            | https://follow.is/                                                                      | Next generation information browser
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- www-client/brave-bin                                  | 1.87.186           |            | https://brave.com/                                                                      | Web browser that blocks ads and trackers by default
+ www-client/brave-bin                                  | 1.87.188           |            | https://brave.com/                                                                      | Web browser that blocks ads and trackers by default
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-client/zen-browser-bin                            | 1.17.15_beta       |            | https://zen-browser.app/                                                                | Experience tranquillity while browsing the web without people tracking you!
                                                        | 1.18.4_beta        |            |                                                                                         |
