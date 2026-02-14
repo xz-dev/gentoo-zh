@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2026-02-04 08:33:50 CST)
+(The last generation time: 2026-02-14 09:57:26 CST)
 
 ### Packages
 
@@ -15,7 +15,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  acct-user/sing-box                                    | 0-r1               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-admin/1password                                   | 8.12.0             |            | https://1password.com                                                                   | Password manager and secure wallet
+ app-admin/1password                                   | 8.12.2             |            | https://1password.com                                                                   | Password manager and secure wallet
    acct-group/onepassword                              | 0-r1               |  D, RD     |                                                                                         | Password manager and secure wallet
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-admin/chezmoi                                     | 2.69.3             |            | https://www.chezmoi.io                                                                  | Manage your dotfiles across multiple diverse machines, securely.
@@ -47,7 +47,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-dicts/fcitx-pinyin-zhwiki                         | 0.3.0.20251223     |            | https://github.com/felixonmars/fcitx5-pinyin-zhwiki                                     | Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- app-editors/antigravity                               | 1.15.8             |            | https://antigravity.google/                                                             | Google Antigravity - AI-powered code editor
+ app-editors/antigravity                               | 1.16.5-r1          |            | https://antigravity.google/                                                             | Google Antigravity - AI-powered code editor
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  app-editors/appflowy-bin                              | 0.11.1             |            | https://www.appflowy.io/                                                                | AppFlowy is an open-source alternative to Notion
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -267,7 +267,19 @@
                                                        | 2.3.2              |            |                                                                                         |
                                                        | 3.3.2              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ dev-python/feeluown-bilibili                          | 0.4.1              |            | https://github.com/feeluown/feeluown-bilibili                                           | bilibili support for feeluown
+                                                       | 0.5.4              |            |                                                                                         |
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-python/frozendict                                 | 2.4.6              |            | https://github.com/Marco-Sulla/python-frozendict                                        | A simple immutable dictionary for Python
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ dev-python/fuo-netease                                | 1.0.3              |            | https://github.com/feeluown/feeluown-netease                                            | netease cloud music support for feeluown
+                                                       | 1.0.8              |            |                                                                                         |
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ dev-python/fuo-qqmusic                                | 1.0.16             |            | https://github.com/feeluown/feeluown-qqmusic                                            | qq music support for feeluown
+                                                       | 1.0.5              |            |                                                                                         |
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ dev-python/fuo-ytmusic                                | 0.4.14             |            | https://github.com/feeluown/feeluown-ytmusic                                            | youtube music support for feeluown
+                                                       | 0.4.2              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-python/fusesoc                                    | 2.4.4              |            | https://github.com/olofk/fusesoc/                                                       | Award-winnning package manager and build abstraction tool for HDL code.
                                                        | 2.4.5              |            |                                                                                         |
@@ -323,19 +335,18 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/binsider                                     | 0.3.0              |            | https://binsider.dev                                                                    | Analyze ELF binaries like a boss
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/codex                                        | 0.94.0             |            | https://github.com/openai/codex                                                         | Codex CLI - OpenAI's AI-powered coding agent
+ dev-util/codex                                        | 0.101.0            |            | https://github.com/openai/codex                                                         | Codex CLI - OpenAI's AI-powered coding agent
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/fvm                                          | 4.0.5              |            | https://github.com/leoafarias/fvm                                                       | Flutter Version Management
-   dev-lang/dart                                       | 3.10.8             |  D, RD     | https://dart.dev                                                                        | The Dart SDK
-                                                       | 3.10.9             |            |                                                                                         |
+   dev-lang/dart                                       | 3.11.0             |  D, RD     | https://dart.dev                                                                        | The Dart SDK
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/gemini-cli                                   | 0.25.0             |            | https://github.com/google-gemini/gemini-cli                                             | Gemini CLI - a command-line AI workflow tool by Google
+ dev-util/gemini-cli                                   | 0.27.3             |            | https://github.com/google-gemini/gemini-cli                                             | Gemini CLI - a command-line AI workflow tool by Google
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/jetbrains-toolbox                            | 3.2.0.65851        |            | https://www.jetbrains.com/toolbox-app/                                                  | Manage all your JetBrains Projects and Tools
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/maixvision                                   | 1.2.2              |            | https://www.sipeed.com/maixvision                                                       | MaixVision - AIoT development platform
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-util/opencode-bin                                 | 1.1.48             |            | https://opencode.ai                                                                     | The open source AI coding agent
+ dev-util/opencode-bin                                 | 1.1.49             |            | https://opencode.ai                                                                     | The open source AI coding agent
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-util/osc                                          | 1.23.0             |            | https://github.com/openSUSE/osc                                                         | The Command Line Interface to work with an Open Build Service
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -368,7 +379,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-arcade/osu-lazer-bin                            | 2026.102.1         |            | https://osu.ppy.sh/                                                                     | A free-to-win rhythm game. Rhythm is just a click away!
                                                        | 2026.119.0         |            |                                                                                         |
-                                                       | 2026.129.0         |            |                                                                                         |
+                                                       | 2026.209.0         |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  games-emulation/conty                                 | 1.27.1             |            | https://github.com/Kron4ek/Conty                                                        | SquashFS image of Arch Linux with: Lutris, Steam, Bottles, Wine...
                                                        | 1.28               |            |                                                                                         |
@@ -407,7 +418,8 @@
                                                        | 3.1                |            |                                                                                         |
                                                        | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- kde-misc/plasma-ions-china                            | 9999               |            | https://github.com/arenekosreal/plasma-ions-china                                       | A collection of plasma weather ions for Chinese users
+ kde-misc/plasma-ions-china                            | 0_p20260130        |            | https://github.com/arenekosreal/plasma-ions-china                                       | A collection of plasma weather ions for Chinese users
+                                                       | 9999               |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  mate-base/caja-bin                                    | 1.28.0             |            | https://wiki.mate-desktop.org/mate-desktop/applications/caja                            | GUI file manager, fork of GNOME Files (Nautilus); supports SSH, FTP, WebDav
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -421,9 +433,9 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/kose-font                                 | 3.126              |            | https://github.com/lxgw/kose-font                                                       | Kose Font (小赖字体) - An open-source Chinese font
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-fonts/lxgw-neo-xihei                            | 1.240              |            | https://github.com/lxgw/LxgwNeoXiHei                                                    | A Simplified Chinese sans-serif font derived from IPAex Gothic
+ media-fonts/lxgw-neo-xihei                            | 1.241              |            | https://github.com/lxgw/LxgwNeoXiHei                                                    | A Simplified Chinese sans-serif font derived from IPAex Gothic
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-fonts/lxgw-neo-zhisong                          | 1.060              |            | https://github.com/lxgw/LxgwNeoZhiSong                                                  | A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
+ media-fonts/lxgw-neo-zhisong                          | 1.061              |            | https://github.com/lxgw/LxgwNeoZhiSong                                                  | A Chinese serif font derived from IPAex Mincho and IPAmj Mincho
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-fonts/misans                                    | 4.003-r1           |            | https://hyperos.mi.com/font                                                             | MiSans 是由小米主导,联合汉仪发布的可免费使用的字体
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -463,6 +475,8 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-gfx/zwcad                                       | 2023.23.0.3.4-r2   |            | https://www.zwsoft.cn/product/zwcad/linux                                               | CAD software for 2D drawing, reviewing and printing work
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
+ media-libs/glycin-thumbnailer                         | 2.0.7              |            | https://gitlab.gnome.org/GNOME/glycin/                                                  | Thumbnailer for glycin clients (glycin crate or libglycin)
+-------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-libs/phonon-mpv                                 | 0.1.0-r1           |            | https://github.com/OpenProgger/phonon-mpv                                               | Mpv backend for the Phonon multimedia library
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-plugins/osdlyrics                               | 0.5.15             |            | https://github.com/osdlyrics/osdlyrics                                                  | Standalone lyrics fetcher/displayer (windowed and OSD mode).
@@ -474,13 +488,9 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/euphonica                                 | 0.98.1             |            | https://github.com/htkhiem/euphonica                                                    | An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-sound/feeluown                                  | 4.1.7              |            | https://github.com/feeluown/FeelUOwn                                                    | A user-friendly and hackable music player
-   dev-python/feeluown-bilibili                        | 0.4.1              |  D         | https://github.com/feeluown/feeluown-bilibili                                           | bilibili support for feeluown
-   dev-python/fuo-netease                              | 1.0.3              |  D         | https://github.com/feeluown/feeluown-netease                                            | netease cloud music support for feeluown
-   dev-python/fuo-qqmusic                              | 1.0.5              |  D         | https://github.com/feeluown/feeluown-qqmusic                                            | qq music support for feeluown
-   dev-python/fuo-ytmusic                              | 0.4.2              |  D         | https://github.com/feeluown/feeluown-ytmusic                                            | youtube music support for feeluown
-   dev-python/janus                                    | 2.0.0              |  D, RD     | https://github.com/aio-libs/janus                                                       | Implementation of the asyncio (PEP 3156) event-loop with Qt
-   dev-python/qasync                                   | 0.28.0             |  D, RD     | https://github.com/CabbageDevelopment/qasync                                            | Implementation of the asyncio (PEP 3156) event-loop with Qt
+ media-sound/feeluown                                  | 5.0.2              |            | https://github.com/feeluown/FeelUOwn                                                    | A user-friendly and hackable music player
+   dev-python/janus                                    | 2.0.0              | RD         | https://github.com/aio-libs/janus                                                       | Implementation of the asyncio (PEP 3156) event-loop with Qt
+   dev-python/qasync                                   | 0.28.0             | RD         | https://github.com/CabbageDevelopment/qasync                                            | Implementation of the asyncio (PEP 3156) event-loop with Qt
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/go-musicfox                               | 4.7.2              |            | https://github.com/go-musicfox/go-musicfox                                              | Command-line Netease Cloud Music written in Go
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -510,7 +520,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/avplayer                                  | 9999               |            | http://avplayer.avplayer.org                                                            | avplayer is a p2p video downloader and player
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-video/bilibili                                  | 1.17.5_p1          |            | https://github.com/msojocs/bilibili-linux                                               | Based on the Bilibli offcial client to linux version, support roaming
+ media-video/bilibili                                  | 1.17.5_p2          |            | https://github.com/msojocs/bilibili-linux                                               | Based on the Bilibli offcial client to linux version, support roaming
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/implay                                    | 1.5.1              |            | https://tsl0922.github.io/ImPlay                                                        | A Cross-Platform Desktop Media Player
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -520,7 +530,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/piliplus-bin                              | 1.1.5              |            | https://github.com/bggRGjQaUbCoE/PiliPlus                                               | BiliBili third-party client developed using Flutter
                                                        | 1.1.5.4            |            |                                                                                         |
-                                                       | 1.1.5_pre8         |            |                                                                                         |
+                                                       | 1.1.6              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-video/tenvideo                                  | 1.0.10             |            | https://v.qq.com/download.html#linux                                                    | Tencent videos
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -535,7 +545,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-analyzer/realitlscanner                           | 0.2.1              |            | https://github.com/XTLS/RealiTLScanner                                                  | A TLS server scanner for Reality
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-dns/ddns-go                                       | 6.14.1             |            | https://github.com/jeessy2/ddns-go                                                      | Automatically obtain your public IP address and set to your domain name service.
+ net-dns/ddns-go                                       | 6.15.0             |            | https://github.com/jeessy2/ddns-go                                                      | Automatically obtain your public IP address and set to your domain name service.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-dns/dnslookup                                     | 1.11.2             |            | https://github.com/ameshkov/dnslookup                                                   | Simple command line utility to make DNS lookups to the specified server
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -557,8 +567,8 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-im/kotatogram-bin                                 | 1.4.9              |            | https://thatcat.space/kotatogram                                                        | Telegram Desktop fork with wide messages, local folders, square avatars
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-im/tencent-qq                                     | 3.2.22_p251203-r1  |            | https://im.qq.com/linuxqq/index.shtml                                                   | The new version of the official linux-qq
-                                                       | 3.2.23_p260108     |            |                                                                                         |
+ net-im/tencent-qq                                     | 3.2.23_p260108     |            | https://im.qq.com/linuxqq/index.shtml                                                   | The new version of the official linux-qq
+                                                       | 3.2.25_p260205     |            |                                                                                         |
    media-libs/openslide                                | 4.0.0              | RD         | https://openslide.org/                                                                  | A C library that provides a simple interface to read whole-slide images
      media-libs/libdicom                               | 1.2.0              |  D, RD     | https://libdicom.readthedocs.io/                                                        | A C library and a set of command-line tools for reading DICOM WSI files
    virtual/loong-ow-compat                             | 0                  | RD         |                                                                                         | Virtual for LoongArch old-world compatibility
@@ -567,9 +577,9 @@
    x11-misc/flatpak-xdg-utils                          | 1.0.6              | RD         | https://github.com/flatpak/flatpak-xdg-utils                                            | Utilities for containerized apps to launch programs outside the container
    x11-misc/snapd-xdg-open                             | 20170401           | RD         | https://github.com/snapcore/snapd-xdg-open                                              | Software for opening links from snaps in desktop
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-im/vesktop-bin                                    | 1.6.3              |            | https://github.com/Vencord/Vesktop                                                      | Discord Desktop with Vencord preinstalled
+ net-im/vesktop-bin                                    | 1.6.4              |            | https://github.com/Vencord/Vesktop                                                      | Discord Desktop with Vencord preinstalled
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-im/wechat                                         | 4.1.0.13           |            | https://linux.weixin.qq.com                                                             | Weixin for Linux
+ net-im/wechat                                         | 4.1.0.16           |            | https://linux.weixin.qq.com                                                             | Weixin for Linux
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-im/wechat-universal-bwrap                         | 1.0.0.241-r1       |            | https://weixin.qq.com                                                                   | WeChat (Universal) from UOS, inside bwrap sandbox
                                                        | 1.0.0.242          |            |                                                                                         |
@@ -599,7 +609,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/another-redis-desktop-manager-bin            | 1.7.1              |            | https://github.com/qishibo/AnotherRedisDesktopManager                                   | A faster, better and more stable Redis desktop manager [GUI client]
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-misc/apifox                                       | 2.8.1              |            | https://www.apifox.cn/                                                                  | API 文档、API 调试、API Mock、API 自动化测试
+ net-misc/apifox                                       | 2.8.5              |            | https://www.apifox.cn/                                                                  | API 文档、API 调试、API Mock、API 自动化测试
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/baidunetdisk                                 | 4.17.7             |            | https://pan.baidu.com/                                                                  | Baidu Net Disk is a cloud storage client (Linux Version)
                                                        | 4.3.0              |            |                                                                                         |
@@ -622,7 +632,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-misc/localsend-bin                                | 1.17.0             |            | https://localsend.org                                                                   | An open-source cross-platform alternative to AirDrop
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-misc/ntpd-rs                                      | 1.7.0              |            | https://github.com/pendulum-project/ntpd-rs                                             | Full-featured implementation of NTP with NTS support
+ net-misc/ntpd-rs                                      | 1.7.1              |            | https://github.com/pendulum-project/ntpd-rs                                             | Full-featured implementation of NTP with NTS support
    acct-group/ntpd-rs                                  | 0                  | RD         |                                                                                         | Full-featured implementation of NTP with NTS support
    acct-group/ntpd-rs-observe                          | 0                  | RD         |                                                                                         | Full-featured implementation of NTP with NTS support
    acct-user/ntpd-rs                                   | 0                  | RD         |                                                                                         | user for ntpd-rs daemon
@@ -687,7 +697,7 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/juicity                                     | 0.5.0              |            | https://github.com/juicity/juicity                                                      | juicity is a quic-based proxy protocol.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- net-proxy/mihomo                                      | 1.19.19            |            | https://wiki.metacubex.one/                                                             | Another Clash Kernel, formerly Clash.Meta
+ net-proxy/mihomo                                      | 1.19.20            |            | https://wiki.metacubex.one/                                                             | Another Clash Kernel, formerly Clash.Meta
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/mihomo-party-bin                            | 1.8.2              |            | https://mihomo.party                                                                    | Mihomo Party
                                                        | 1.9.1              |            |                                                                                         |
@@ -709,6 +719,8 @@
      dev-libs/singleapplication                        | 3.5.4              |  D         | https://itay-grudev.github.io/SingleApplication/                                        | Replacement of QtSingleApplication support for inter-instance communication
      net-proxy/Xray                                    | 26.1.31            | RD         | https://xtls.github.io/                                                                 | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support.
                                                        | 26.2.2             |            |                                                                                         |
+                                                       | 26.2.4             |            |                                                                                         |
+                                                       | 26.2.6             |            |                                                                                         |
        app-alternatives/v2ray-geoip                    | 0-r2               |  D, RD     |                                                                                         | symlink for v2ray-geoip
        app-alternatives/v2ray-geosite                  | 0-r2               |  D, RD     |                                                                                         | symlink for v2ray-geosite
      net-proxy/v2ray                                   | 5.42.0             | RD         | https://www.v2fly.org/                                                                  | A platform for building proxies to bypass network restrictions.
@@ -721,8 +733,8 @@
  net-proxy/shadowsocks-rust                            | 1.24.0             |            | https://github.com/shadowsocks/shadowsocks-rust                                         | shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/sing-box                                    | 1.11.15-r1         |            | https://sing-box.sagernet.org/                                                          | The universal proxy platform.
-                                                       | 1.12.19            |            |                                                                                         |
-                                                       | 1.13.0_rc1         |            |                                                                                         |
+                                                       | 1.12.21            |            |                                                                                         |
+                                                       | 1.13.0_rc3         |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  net-proxy/smartproxy                                  | 0.9.5              |            | https://github.com/microcai/smartproxy                                                  | A fast, proxy smart selector
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -789,16 +801,16 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  sys-power/tlpui                                       | 1.9.0              |            | https://github.com/d4nj1/TLPUI                                                          | A GTK user interface for TLP written in Python
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- virtual/dist-kernel                                   | 6.18.8             |            |                                                                                         | Virtual to depend on any Distribution Kernel
+ virtual/dist-kernel                                   | 6.18.9             |            |                                                                                         | Virtual to depend on any Distribution Kernel
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  virtual/linux-sources                                 | 3-r12              |            |                                                                                         | Virtual for Linux kernel sources
    sys-kernel/cachyos-sources                          | 6.18.6             | RD         | https://cachyos.org                                                                     | Full Cachyos sources including the Gentoo patchset for the . kernel tree
    sys-kernel/liquorix-sources                         | 6.4.12             | RD         | https://liquorix.net/                                                                   | Liquorix kernel is best one for desktop, multimedia and gaming workloads
                                                        | 6.6.8              |            |                                                                                         |
-   sys-kernel/xanmod-kernel                            | 6.18.8             | RD         | https://www.kernel.org/                                                                 | XanMod lts kernel built with Gentoo patches and cjktty
+   sys-kernel/xanmod-kernel                            | 6.18.9             | RD         | https://www.kernel.org/                                                                 | XanMod lts kernel built with Gentoo patches and cjktty
    sys-kernel/xanmod-rt                                | 6.0.11             | RD         | https://xanmod.org                                                                      | XanMod RT sources and CJKTTY options.
                                                        | 6.12.31            |            |                                                                                         |
-   sys-kernel/xanmod-sources                           | 6.18.8             | RD         | https://xanmod.org                                                                      | Full XanMod source, including the Gentoo patchset and other patch options.
+   sys-kernel/xanmod-sources                           | 6.18.9             | RD         | https://xanmod.org                                                                      | Full XanMod source, including the Gentoo patchset and other patch options.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  virtual/v2ray-domain-list-community                   | 0                  |            |                                                                                         | Virtual for v2ray-domain-list-community
    dev-libs/v2ray-domain-list-community                | 20260122141558     | RD         | https://github.com/v2fly/domain-list-community                                          | Community managed domain list for V2Ray.
@@ -814,9 +826,10 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-apps/follow-bin                                   | 1.2.6              |            | https://follow.is/                                                                      | Next generation information browser
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- www-client/brave-bin                                  | 1.86.146           |            | https://brave.com/                                                                      | Web browser that blocks ads and trackers by default
+ www-client/brave-bin                                  | 1.87.186           |            | https://brave.com/                                                                      | Web browser that blocks ads and trackers by default
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-client/zen-browser-bin                            | 1.17.15_beta       |            | https://zen-browser.app/                                                                | Experience tranquillity while browsing the web without people tracking you!
+                                                       | 1.18.4_beta        |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  www-servers/darkhttpd                                 | 1.17               |            | http://unix4lyfe.org/darkhttpd/                                                         | A small, static webserver
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -844,7 +857,7 @@
  x11-terms/blackbox-terminal                           | 0.14.0             |            | https://gitlab.gnome.org/raggesilver/blackbox                                           | A beautiful GTK 4 terminal
    dev-libs/libpqmarble                                | 2.0.0_p20250109    |  D, RD     | https://gitlab.gnome.org/raggesilver/marble                                             | Utility library for GNOME apps
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- x11-terms/termius                                     | 9.36.2             |            | https://termius.com/download/linux                                                      | Desktop SSH Client
+ x11-terms/termius                                     | 9.36.3             |            | https://termius.com/download/linux                                                      | Desktop SSH Client
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  x11-terms/wezterm-bin                                 | 20240203           |            | https://wezfurlong.org/wezterm                                                          | A terminal emulator and multiplexer implemented in Rust
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
