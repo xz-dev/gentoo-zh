@@ -1476,6 +1476,12 @@ gitlab = "archlinux/arch-install-scripts"
 use_max_tag = true
 prefix = "v"
 
+["dev-util/pahole"]
+source = "regex"
+url = "https://fedorapeople.org/~acme/dwarves/"
+regex = 'dwarves-([\d.]+)\.tar\.xz'
+github_account = "xz-dev"
+
 # TODO: PV mismatching tag
 #["dev-util/patchelf-liblol"]
 
